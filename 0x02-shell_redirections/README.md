@@ -9,3 +9,4 @@
 8-cwd_state writes output of ls -la into a file called "ls_cwd_content"
 9-duplicate_last_line duplicates the last line of the file "iacta"
 10-no_more_js deletes all regular js files recursively
+11-directories counts number of directories and sub-directories in the current directory
