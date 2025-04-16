@@ -11,3 +11,4 @@
 10-no_more_js deletes all regular js files recursively
 11-directories counts number of directories and sub-directories in the current directory
 12-newest_files displays the 10 newest files in the current directory
+13-unique takes a list of words as inputs and prints only words that appear once
